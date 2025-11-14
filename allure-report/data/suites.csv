@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4961","Detect broken images generically","chromium","Fri Nov 14 11:59:24 BDT 2025","passed","Fri Nov 14 11:59:29 BDT 2025","Broken Images Page Tests","broken_img.spec.ts","",""
