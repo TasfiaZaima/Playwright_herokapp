@@ -34,3 +34,7 @@ test('Detect all broken images generically', async ({ page }) => {
 
 
 });
+
+//img.naturalWidth
+// — a loaded image will have a width greater than 0.
+// — a broken image usually has naturalWidth = 0.
