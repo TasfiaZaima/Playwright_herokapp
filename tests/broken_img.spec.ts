@@ -11,7 +11,7 @@ test.describe('Broken Images Page Tests', () => {
 
 
 
-test('Detect broken images generically', async ({ page }) => {
+test('Detect all broken images generically', async ({ page }) => {
   const images = await page.locator('.example img').elementHandles();
   const brokenIndexes: number[] = [];
 
